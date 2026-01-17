@@ -1,3 +1,7 @@
+"""Leap Year Checker
+Input a year
+Check whether it’s a leap year"""
+
 #Take input from user
 y = int(input("Enter year:"))
 

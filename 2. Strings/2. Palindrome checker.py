@@ -1,3 +1,6 @@
+"""Palindrome Checker
+Check if a string is palindrome"""
+
 #Take the input from user
 
 word = input("enter the word:")

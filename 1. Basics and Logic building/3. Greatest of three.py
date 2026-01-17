@@ -1,3 +1,7 @@
+"""Greatest of Three Numbers
+Input three numbers
+Find the largest without using max()"""
+
 #Take input from user
 num1 = int(input("Enter 1st no. :"))
 num2 = int(input("Enter 2nd no. :"))

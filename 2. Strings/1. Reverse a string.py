@@ -1,3 +1,7 @@
+"""Reverse a String
+Input a string
+Print it reversed (without using built-in reverse)"""
+
 #Take the input from user
 s = input("enter a word:")
 

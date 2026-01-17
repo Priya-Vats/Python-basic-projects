@@ -1,3 +1,12 @@
+"""Grade System
+Input marks (0 - 100)
+Print grade:
+90 - 100 → A
+80 - 89 → B
+70 - 79 → C
+Else → Fail"""
+
+
 #Take input from user
 marks = float(input("Enter marks:"))
 

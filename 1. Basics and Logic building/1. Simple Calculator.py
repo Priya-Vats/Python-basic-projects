@@ -1,3 +1,8 @@
+"""Simple Calculator
+Take two numbers from the user
+Take an operator (+ - * /)
+Perform the operation using if-elif-else"""
+
 #Take input from user
 
 a = float(input("Enter the first number:"))

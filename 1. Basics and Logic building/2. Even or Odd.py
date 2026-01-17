@@ -1,3 +1,7 @@
+"""Even or Odd
+Input a number
+Print whether it is even or odd"""
+
 #Take the Input
 num = int(input("Enter the number:"))
 
