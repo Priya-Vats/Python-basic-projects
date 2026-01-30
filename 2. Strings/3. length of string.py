@@ -1,4 +1,4 @@
-"""#Take a string and print:Length of string
+#Take a string and print:Length of string
 
 sentence = input("Enter the words:")
 print(len(sentence))
@@ -7,6 +7,8 @@ print(len(sentence))
 name = input("Enter the words:")
 #strg = "name"
 print(name[0])
-print(name[-1])"""
+print(name[-1])
 
 #Take a string and print it in uppercase.
+text = input("Enter the word:")
+print(text.upper())
